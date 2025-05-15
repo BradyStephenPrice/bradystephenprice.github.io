@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on Brady Price</title>
+    <link>https://bradystephenprice.github.io/books/</link>
+    <description>Recent content in Books on Brady Price</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bradyprice1@gmail.com (Brady Price)</managingEditor>
+    <webMaster>bradyprice1@gmail.com (Brady Price)</webMaster>
+    <copyright>&amp;copy; 2024 Brady Price. All Rights Revered.</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bradystephenprice.github.io/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dr.James White</title>
+      <link>https://bradystephenprice.github.io/books/dr.white/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>https://bradystephenprice.github.io/books/dr.white/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://bradystephenprice.github.io/books/dr.white/featured.png" />
+    </item>
+    
+    <item>
+      <title>Teaming With Algae</title>
+      <link>https://bradystephenprice.github.io/books/teaming_with_algae/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>https://bradystephenprice.github.io/books/teaming_with_algae/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://bradystephenprice.github.io/books/teaming_with_algae/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Teaming With Bacteria</title>
+      <link>https://bradystephenprice.github.io/books/teaming_with_bacteria/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>https://bradystephenprice.github.io/books/teaming_with_bacteria/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://bradystephenprice.github.io/books/teaming_with_bacteria/featured.png" />
+    </item>
+    
+    <item>
+      <title>Teaming With Cyanobateria</title>
+      <link>https://bradystephenprice.github.io/books/teaming_with_cyanobateria/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>https://bradystephenprice.github.io/books/teaming_with_cyanobateria/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://bradystephenprice.github.io/books/teaming_with_cyanobateria/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Teaming With Fungi</title>
+      <link>https://bradystephenprice.github.io/books/teaming_with_fungi/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>https://bradystephenprice.github.io/books/teaming_with_fungi/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://bradystephenprice.github.io/books/teaming_with_fungi/featured.png" />
+    </item>
+    
+    <item>
+      <title>Teaming With Microbes</title>
+      <link>https://bradystephenprice.github.io/books/teaming_with_microbes/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>https://bradystephenprice.github.io/books/teaming_with_microbes/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://bradystephenprice.github.io/books/teaming_with_microbes/featured.png" />
+    </item>
+    
+    <item>
+      <title>Teaming With Nutrients</title>
+      <link>https://bradystephenprice.github.io/books/teaming_with_nutrients/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>https://bradystephenprice.github.io/books/teaming_with_nutrients/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://bradystephenprice.github.io/books/teaming_with_nutrients/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

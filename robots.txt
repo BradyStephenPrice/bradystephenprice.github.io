@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bradystephenprice.github.io/sitemap.xml

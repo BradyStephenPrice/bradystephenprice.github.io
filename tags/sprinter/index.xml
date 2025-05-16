@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sprinter on Brady Price</title>
+    <link>https://bradystephenprice.github.io/tags/sprinter/</link>
+    <description>Recent content in Sprinter on Brady Price</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bradyprice1@gmail.com (Brady Price)</managingEditor>
+    <webMaster>bradyprice1@gmail.com (Brady Price)</webMaster>
+    <copyright>&amp;copy; 2024 Brady Price. All Rights Revered.</copyright>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bradystephenprice.github.io/tags/sprinter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sprinter Van</title>
+      <link>https://bradystephenprice.github.io/bio/fractal_growth/spriter_van/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>https://bradystephenprice.github.io/bio/fractal_growth/spriter_van/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://bradystephenprice.github.io/bio/fractal_growth/spriter_van/featured.png" />
+    </item>
+    
+    <item>
+      <title>Fractal Growth</title>
+      <link>https://bradystephenprice.github.io/bio/fractal_growth/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>https://bradystephenprice.github.io/bio/fractal_growth/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

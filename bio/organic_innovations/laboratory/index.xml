@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laboratory on Brady Price</title>
-    <link>https://bradystephenprice.github.io/bio/organic_innovations/laboratory/</link>
+    <link>http://localhost:52045/bio/organic_innovations/laboratory/</link>
     <description>Recent content in Laboratory on Brady Price</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>bradyprice1@gmail.com (Brady Price)</managingEditor>
     <webMaster>bradyprice1@gmail.com (Brady Price)</webMaster>
     <copyright>&amp;copy; 2024 Brady Price. All Rights Revered.</copyright>
-    <lastBuildDate>Tue, 08 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://bradystephenprice.github.io/bio/organic_innovations/laboratory/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52045/bio/organic_innovations/laboratory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crude</title>
-      <link>https://bradystephenprice.github.io/bio/organic_innovations/laboratory/crude_oil/</link>
+      <link>http://localhost:52045/bio/organic_innovations/laboratory/crude_oil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>https://bradystephenprice.github.io/bio/organic_innovations/laboratory/crude_oil/</guid>
+      <guid>http://localhost:52045/bio/organic_innovations/laboratory/crude_oil/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://bradystephenprice.github.io/bio/organic_innovations/laboratory/crude_oil/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:52045/bio/organic_innovations/laboratory/crude_oil/featured.png" />
     </item>
     
     <item>
       <title>Distillate</title>
-      <link>https://bradystephenprice.github.io/bio/organic_innovations/laboratory/distillation/</link>
+      <link>http://localhost:52045/bio/organic_innovations/laboratory/distillation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>https://bradystephenprice.github.io/bio/organic_innovations/laboratory/distillation/</guid>
+      <guid>http://localhost:52045/bio/organic_innovations/laboratory/distillation/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://bradystephenprice.github.io/bio/organic_innovations/laboratory/distillation/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:52045/bio/organic_innovations/laboratory/distillation/featured.jpg" />
     </item>
     
     <item>
       <title>Rotory Evaporator</title>
-      <link>https://bradystephenprice.github.io/bio/organic_innovations/laboratory/roto_vape/</link>
+      <link>http://localhost:52045/bio/organic_innovations/laboratory/roto_vape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>https://bradystephenprice.github.io/bio/organic_innovations/laboratory/roto_vape/</guid>
+      <guid>http://localhost:52045/bio/organic_innovations/laboratory/roto_vape/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://bradystephenprice.github.io/bio/organic_innovations/laboratory/roto_vape/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:52045/bio/organic_innovations/laboratory/roto_vape/featured.jpg" />
     </item>
     
     <item>
       <title>Sparations of Oil</title>
-      <link>https://bradystephenprice.github.io/bio/organic_innovations/laboratory/separations/</link>
+      <link>http://localhost:52045/bio/organic_innovations/laboratory/separations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>https://bradystephenprice.github.io/bio/organic_innovations/laboratory/separations/</guid>
+      <guid>http://localhost:52045/bio/organic_innovations/laboratory/separations/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://bradystephenprice.github.io/bio/organic_innovations/laboratory/separations/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:52045/bio/organic_innovations/laboratory/separations/featured.jpg" />
     </item>
     
     <item>
       <title>Vape Pens</title>
-      <link>https://bradystephenprice.github.io/bio/organic_innovations/laboratory/vape_pen/</link>
+      <link>http://localhost:52045/bio/organic_innovations/laboratory/vape_pen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>https://bradystephenprice.github.io/bio/organic_innovations/laboratory/vape_pen/</guid>
+      <guid>http://localhost:52045/bio/organic_innovations/laboratory/vape_pen/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Winterizations</title>
-      <link>https://bradystephenprice.github.io/bio/organic_innovations/laboratory/winterizations/</link>
+      <link>http://localhost:52045/bio/organic_innovations/laboratory/winterizations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>https://bradystephenprice.github.io/bio/organic_innovations/laboratory/winterizations/</guid>
+      <guid>http://localhost:52045/bio/organic_innovations/laboratory/winterizations/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://bradystephenprice.github.io/bio/organic_innovations/laboratory/winterizations/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:52045/bio/organic_innovations/laboratory/winterizations/featured.png" />
     </item>
     
   </channel>

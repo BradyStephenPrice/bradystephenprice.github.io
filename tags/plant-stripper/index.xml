@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Plant Stripper on Brady Price</title>
-    <link>https://bradystephenprice.github.io/tags/plant-stripper/</link>
+    <link>http://localhost:52045/tags/plant-stripper/</link>
     <description>Recent content in Plant Stripper on Brady Price</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>bradyprice1@gmail.com (Brady Price)</managingEditor>
     <webMaster>bradyprice1@gmail.com (Brady Price)</webMaster>
     <copyright>&amp;copy; 2024 Brady Price. All Rights Revered.</copyright>
-    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://bradystephenprice.github.io/tags/plant-stripper/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52045/tags/plant-stripper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plant Stripper</title>
-      <link>https://bradystephenprice.github.io/bio/organic_innovations/plant_stripper/</link>
+      <link>http://localhost:52045/bio/organic_innovations/plant_stripper/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>https://bradystephenprice.github.io/bio/organic_innovations/plant_stripper/</guid>
+      <guid>http://localhost:52045/bio/organic_innovations/plant_stripper/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://bradystephenprice.github.io/bio/organic_innovations/plant_stripper/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:52045/bio/organic_innovations/plant_stripper/featured.png" />
     </item>
     
     <item>
       <title>Organic Innovations</title>
-      <link>https://bradystephenprice.github.io/bio/organic_innovations/</link>
+      <link>http://localhost:52045/bio/organic_innovations/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
       <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>https://bradystephenprice.github.io/bio/organic_innovations/</guid>
+      <guid>http://localhost:52045/bio/organic_innovations/</guid>
       <description></description>
       
     </item>

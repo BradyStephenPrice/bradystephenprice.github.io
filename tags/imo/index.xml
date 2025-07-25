@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IMO on Brady Price</title>
-    <link>https://bradystephenprice.github.io/tags/imo/</link>
+    <link>http://localhost:52045/tags/imo/</link>
     <description>Recent content in IMO on Brady Price</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>bradyprice1@gmail.com (Brady Price)</managingEditor>
     <webMaster>bradyprice1@gmail.com (Brady Price)</webMaster>
     <copyright>&amp;copy; 2024 Brady Price. All Rights Revered.</copyright>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://bradystephenprice.github.io/tags/imo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52045/tags/imo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Make A IMO</title>
-      <link>https://bradystephenprice.github.io/howto/how_to_make_imo/</link>
+      <link>http://localhost:52045/howto/how_to_make_imo/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>https://bradystephenprice.github.io/howto/how_to_make_imo/</guid>
+      <guid>http://localhost:52045/howto/how_to_make_imo/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://bradystephenprice.github.io/howto/how_to_make_imo/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:52045/howto/how_to_make_imo/featured.png" />
     </item>
     
   </channel>
